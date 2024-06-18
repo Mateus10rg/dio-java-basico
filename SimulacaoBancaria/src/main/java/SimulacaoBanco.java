@@ -20,14 +20,16 @@ public class SimulacaoBanco {
             switch (opcao) {
                 case 1:
                     // TODO: Ler o valor a ser depositado e atualizar/imprimir o saldo.
+                    System.out.println("Qual valor você deseja depositar?");
                     saldo += scanner.nextDouble();
                     System.out.println("Saldo atual: " + saldo);
                     break;
                 case 2:
                     // TODO: Ler o valor a ser sacado e verificar/imprimir se há saldo suficiente.
+                    System.out.println("Qual valor do saque? ");
                     double saque = scanner.nextDouble();
                     if (saldo >= saque ){
-                        System.out.println("Saldo atual: " + saque);
+                        System.out.println("Saque de R$" + saque + " realizado com sucesso!. ");
                         saldo -= saque;
                     }else
                         System.out.println("Saldo insuficiente");
@@ -38,7 +40,8 @@ public class SimulacaoBanco {
                     System.out.println("Saldo atual: R$" + saldo);
                     break;
                 case 0:
-                    System.out.println("Programa encerrado.");
+                    System.out.println("Encerrando programa... ");
+                    System.out.println("Programa encerrado. ");
                     continuar = false;  // Atualiza a variável de controle para encerrar o loop
                     break;
                 default:

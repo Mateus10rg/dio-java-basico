@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8410c638-8e66-4c84-a071-03336f67ba83" name="Changes" comment="">
+    <list default="true" id="a10d72a3-3d02-42f4-8e46-025289b02f13" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Colletions-java-api/src/main/java/Desafio01/CarrinhoDeCompras.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Colletions-java-api/src/main/java/Desafio01/Item.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Colletions-java-api/src/main/java/org/example/ListaTarefa.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Colletions-java-api/src/main/java/org/example/Tarefa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReprodutorMusical/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReprodutorMusical/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimulacaoBancaria/src/main/java/SimulacaoBanco.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SimulacaoBancaria/src/main/java/SimulacaoBanco.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +17,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
-}</component>
-  <component name="ProjectId" id="2hdF66eSokpK9QAfBsZ9cYeal5e" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2hysCHNd8KYvnUj6tBUvOjvRUZo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,11 +31,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Bootcamp-java/dio-java-basico",
+    "last_opened_file_path": "C:/Bootcamp-java/dio-java-basico/SimulacaoBancaria",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -51,13 +47,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8410c638-8e66-4c84-a071-03336f67ba83" name="Changes" comment="" />
-      <created>1717915870247</created>
+      <changelist id="a10d72a3-3d02-42f4-8e46-025289b02f13" name="Changes" comment="" />
+      <created>1718577522742</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1717915870247</updated>
-      <workItem from="1717915871302" duration="171000" />
-      <workItem from="1718574160321" duration="21000" />
+      <updated>1718577522742</updated>
+      <workItem from="1718577523756" duration="36000" />
     </task>
     <servers />
   </component>
