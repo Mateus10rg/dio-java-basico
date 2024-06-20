@@ -4,91 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3b18a72-55d3-4179-83cb-6139fd185eb3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../BancoDigital/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDigital/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDigital/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDigital/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDigital/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDigital/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDigital/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDigital/src/main/java/BancoDigital/Banco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDigital/src/main/java/BancoDigital/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDigital/src/main/java/BancoDigital/Conta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDigital/src/main/java/BancoDigital/ContaCorrente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDigital/src/main/java/BancoDigital/ContaPoupanca.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDigital/src/main/java/BancoDigital/IConta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDigital/src/main/java/BancoDigital/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ControleSimplesDeSaques/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ControleSimplesDeSaques/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ControleSimplesDeSaques/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ControleSimplesDeSaques/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ControleSimplesDeSaques/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ControleSimplesDeSaques/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ControleSimplesDeSaques/src/main/java/ControleSimplesDeSaques.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desafio-Iphone/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desafio-Iphone/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desafio-Iphone/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desafio-Iphone/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desafio-Iphone/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desafio-Iphone/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desafio-Iphone/Diagrama UML - iPhone.drawio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desafio-Iphone/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desafio-Iphone/src/main/java/DesafioIphone/Celular.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desafio-Iphone/src/main/java/DesafioIphone/Iphone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desafio-Iphone/src/main/java/DesafioIphone/NavegadorInternet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desafio-Iphone/src/main/java/DesafioIphone/ReprodutorMusical.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Desafio-Iphone/src/main/java/DesafioIphone/Telefone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesafioControleFluxo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesafioControleFluxo/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesafioControleFluxo/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesafioControleFluxo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesafioControleFluxo/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesafioControleFluxo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesafioControleFluxo/src/main/java/org/example/Contador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesafioControleFluxo/src/main/java/org/example/DesafioControleFluxo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesafioControleFluxo/src/main/java/org/example/ParametrosInvalidosException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReprodutorMusical/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReprodutorMusical/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacaoBancaria/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacaoBancaria/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacaoBancaria/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacaoBancaria/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacaoBancaria/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacaoBancaria/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SimulacaoBancaria/src/main/java/SimulacaoBanco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificacaoChequeEspecial/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificacaoChequeEspecial/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificacaoChequeEspecial/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificacaoChequeEspecial/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificacaoChequeEspecial/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificacaoChequeEspecial/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificacaoChequeEspecial/src/main/java/VerificacaoChequeEspecial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificacaoChequeEspecial/src/main/java/VerificacaoChequeEspecial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificadorElegibilidadeConta/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificadorElegibilidadeConta/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificadorElegibilidadeConta/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificadorElegibilidadeConta/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificadorElegibilidadeConta/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificadorElegibilidadeConta/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificadorElegibilidadeConta/src/main/java/VerificadorElegibilidadeConta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificadorNumeroConta/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificadorNumeroConta/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificadorNumeroConta/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificadorNumeroConta/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificadorNumeroConta/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificadorNumeroConta/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VerificadorNumeroConta/src/main/java/VerificadorNumeroConta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../conta-banco/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../conta-banco/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../conta-banco/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../conta-banco/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../conta-banco/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../conta-banco/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../conta-banco/bin/ContaTerminal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../conta-banco/conta-banco.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../conta-banco/src/ContaTerminal.java" beforeDir="false" />
-    </list>
+    <list default="true" id="a3b18a72-55d3-4179-83cb-6139fd185eb3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -112,21 +28,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Bootcamp-java/dio-java-basico/desafio-poo-dio/src/main/java/org/example/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Bootcamp-java/dio-java-basico/Desafios/desafio-poo-dio",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Bootcamp-java/dio-java-basico/desafio-poo-dio/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -145,7 +62,8 @@
       <updated>1718772045306</updated>
       <workItem from="1718772046401" duration="2104000" />
       <workItem from="1718833922653" duration="4947000" />
-      <workItem from="1718850313575" duration="4299000" />
+      <workItem from="1718850313575" duration="3951000" />
+      <workItem from="1718854918187" duration="26000" />
     </task>
     <servers />
   </component>
